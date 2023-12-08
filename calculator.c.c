@@ -8,3 +8,7 @@ return a * b * 2 -10 ;
 return a + b;
 >>>>>>> feature-conflict
 }
+
+int pow2(int a) {
+return a * a;
+}
